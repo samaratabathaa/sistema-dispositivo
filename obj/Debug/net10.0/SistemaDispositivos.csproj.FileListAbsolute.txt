@@ -1,0 +1,14 @@
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\bin\Debug\net10.0\SistemaDispositivos.exe
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\bin\Debug\net10.0\SistemaDispositivos.deps.json
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\bin\Debug\net10.0\SistemaDispositivos.runtimeconfig.json
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\bin\Debug\net10.0\SistemaDispositivos.dll
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\bin\Debug\net10.0\SistemaDispositivos.pdb
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.AssemblyInfoInputs.cache
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.AssemblyInfo.cs
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.csproj.CoreCompileInputs.cache
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.dll
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\refint\SistemaDispositivos.dll
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.pdb
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\SistemaDispositivos.genruntimeconfig.cache
+C:\Users\samar\Downloads\SistemaBibliotecaa\SistemaDispositivos\obj\Debug\net10.0\ref\SistemaDispositivos.dll
